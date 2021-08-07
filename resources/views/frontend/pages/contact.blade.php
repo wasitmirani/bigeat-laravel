@@ -20,7 +20,7 @@
                     <li class="single-info-item">
                         <img src="{{asset('assets/img/icon/envelope.png')}}" alt="icon">
                         <div class="details">
-                            ordernow@foodka.com
+                            ordernow@bigeat.com
                         </div>
                     </li>
                     <li class="single-info-item">

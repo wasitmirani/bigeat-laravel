@@ -17,7 +17,7 @@
             <div class="col-lg-5 col-md-8">
                 <div class="section-title text-center">
                     <h3 class="sub-title">Our signature</h3>
-                    <h2 class="title">Foodka Main Dishes</h2>
+                    <h2 class="title">BigEat Main Dishes</h2>
                     <p>Amet amet parturient sed posuere vulputate pharetra a sapien, habitant. Enim vel elit pharetra.</p>
                 </div>
             </div>

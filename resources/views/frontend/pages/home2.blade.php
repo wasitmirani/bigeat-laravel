@@ -1316,7 +1316,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6 text-md-start text-center">
                         <div class="copyright-area">
-                            <p>© 2021 BigEat. All Rights Reserved by Themefie</p>
+                            <p>© 2021 BigEat. All Rights Reserved by pixeliconic</p>
                         </div>
                     </div>
                     <div class="col-md-6">
