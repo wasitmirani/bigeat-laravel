@@ -29,7 +29,7 @@
 </head>
 <body class='sc5 home-2'>
     <!-- preloader area start -->
-    <div class="preloader" id="preloader">
+    {{-- <div class="preloader" id="preloader">
         <div class="preloader-inner">
             <div id="wave1">
             </div>
@@ -38,7 +38,7 @@
                 <div class="dot2"></div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- preloader area end -->
 
     <!-- search popup area start -->
